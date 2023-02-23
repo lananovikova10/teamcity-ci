@@ -52,7 +52,7 @@
                 <p>Step with an image.</p>
 
                 <!-- The 'src' attribute should contain the name of an image from the '/images' folder in your project -->
-                <img src="image.png" width="300" alt="Sample"/>
+                <img src="4qlm3u.png" width="300" alt="Sample"/>
             </step>
 
             <step>
